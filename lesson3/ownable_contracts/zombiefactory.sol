@@ -1,7 +1,7 @@
 pragma solidity ^0.4.19;
 
 // 1. Import here
-import "./ownable.sol"
+import "./ownable.sol";
 
 // 2. Inherit here:
 contract ZombieFactory is Ownable {
